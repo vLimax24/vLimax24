@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning JavaScript and TailwindCSS<br>⚡14 year old coding enthusiast
+🌱 Currently learning ReactJS and Backend<br>⚡14 year old coding enthusiast
 
 
 ## 🌐 Socials:
