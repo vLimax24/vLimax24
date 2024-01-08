@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Currently learning ReactJS and Backend<br>⚡14 year old coding enthusiast
+🌱 Currently learning ReactJS and Backend<br>⚡15 year old coding enthusiast
 
 
 ## 🌐 Socials:
