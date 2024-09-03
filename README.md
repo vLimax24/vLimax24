@@ -40,6 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/vLimax24/vLimax24/output/snake.svg" alt="Snake animation" />
+<a href="https://app.daily.dev/limax"><img src="https://api.daily.dev/devcards/v2/uaXV4BFdgIJVs9gFmxKyv.png?r=09q&type=default" width="356" alt="Limax's Dev Card"/></a>
 
 ###
