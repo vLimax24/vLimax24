@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Elu<br>👯 I’m looking to collaborate on open-source software<br>🤝 I’m looking for help with Elu<br>🌱 I’m currently learning CI/CD
+🔭 I’m currently working on Elu<br>👯 I’m looking to collaborate on open-source software<br>🤝 I’m looking for help with Elu<br>🌱 I’m currently learning CI/CD and Go
 
 
 ## 🌐 Socials:
