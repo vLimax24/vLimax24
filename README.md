@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vlimax24&show_icons=true&locale=en" alt="vlimax24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vlimax24&" alt="vlimax24" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=vLimax24)](https://git.io/streak-stats)
