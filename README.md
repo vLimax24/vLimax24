@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vlimax24&label=Profile%20views&color=0e75b6&style=flat" alt="vlimax24" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vlimax24" alt="vlimax24" /></a> </p>
-
 - 🔭 I’m currently working on my Household Managment [Household Managment](https://github.com/vLimax24/family-server)
 
 - 👯 I’m looking to collaborate on [Tandrum](https://github.com/vLimax24/Tandrum)
