@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on my Household Managment [Household Managment](https://github.com/vLimax24/family-server)
 
-- 👯 I’m looking to collaborate on [Tandrum](https://github.com/vLimax24/Tandrum)
+- 👯 I’m looking to collaborate on [Tandrum](https://github.com/vLimax24/Tandrum)!!
 
 - 🤝 I’m looking for help with [Lou](https://github.com/vLimax24/Lou)
 
